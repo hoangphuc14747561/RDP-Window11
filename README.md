@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 AI STV PREMIUM RDP SERVER
+# 🚀  RDP SERVER
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automated-blue?logo=githubactions&style=flat-square)
 ![Windows](https://img.shields.io/badge/OS-Windows%20Server-blue?logo=windows&style=flat-square)
