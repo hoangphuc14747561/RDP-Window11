@@ -312,7 +312,7 @@ Community
 
 ---
 
-<div align="center">⚡ Powered by AI STV Premium Technology
+<div align="center">⚡ Powered by Zangz
 Fast • Secure • Reliable
 
 
